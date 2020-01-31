@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། བླ་མ་དམ་པ་བསོོད་ནམས་རྒྱལ་མཚན།
+  sku: IBA-SG-03-1
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+web_metadata:
+  title:
+    en: A Concise Explanation of the Bodhicharyavatara
+    bo: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན།
+  collection:
+    en: IBA Sonam Gyaltsen Series–  Book 3
+    bo: བསོོད་ནམས་རྒྱལ་མཚན་རྩོམ་བྲིས།–  དེབ། ༣
+  author:
+    en: Lama Dampa Sonam Gyaltsen
+    bo: བླ་མ་དམ་པ་བསོོད་ནམས་རྒྱལ་མཚན།
+  pusblisher:
+    en: IBA Publications
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་།
+  sku: IBA-SG-03-1
+  category:
+    en: Bodhicharyavatara
+    bo: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: IBA-SG-03-1.epub
+  description:
+    en: The concise presentation of the Shantideva’s Bodhisattvacaryavatara.
+    bo: ཐེག་ཆེན་ལམ་སྐོར་བསྡུས་ནས་བསྟན་པའི་གཞུང་།

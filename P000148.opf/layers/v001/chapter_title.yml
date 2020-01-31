@@ -1,0 +1,48 @@
+id: a7df5c30b0cc413cbc09ddfbe3803376
+annotation_type: chapter_title
+revision: '00001'
+annotations:
+- id: 1a982ec4dfd8449193d5ed758804dd49
+  span:
+    start: 104
+    end: 116
+- id: 30ac9c6ca45648cf8e9eabb6fcb3b1d6
+  span:
+    start: 118
+    end: 180
+- id: 0a7ce00cdde24d4297213d8d2e02af4d
+  span:
+    start: 2621
+    end: 2634
+- id: 9fd4b86fd00c4448bc0dd0d43d1d0dfc
+  span:
+    start: 4565
+    end: 4578
+- id: 9ffa6371d7614454880168f7b928964d
+  span:
+    start: 5220
+    end: 5232
+- id: 813cf110208a4e068552aa6a85691580
+  span:
+    start: 6551
+    end: 6562
+- id: fa6e2acdb8d94c1fb67f084250a31b37
+  span:
+    start: 9122
+    end: 9135
+- id: 17e3530ec2a34b9dbd9079280fe5785e
+  span:
+    start: 12414
+    end: 12427
+- id: 1297b7e23a7f499c8466a47fd515689b
+  span:
+    start: 14003
+    end: 14017
+- id: 28c0118b66a043caa2f1807b0ac3aa41
+  span:
+    start: 16075
+    end: 16087
+- id: 5fb4e1c60d38455f97dbbad718ea9ce0
+  span:
+    start: 20076
+    end: 20088
