@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000148
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། བླ་མ་དམ་པ་བསོོད་ནམས་རྒྱལ་མཚན།
-  sku: IBA-SG-03-1
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
+  id: IBA-SG-03-1
 web_metadata:
   title:
     en: A Concise Explanation of the Bodhicharyavatara
